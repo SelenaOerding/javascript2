@@ -6,7 +6,7 @@ This assignment should help you build on your JavaScript skills through a small 
 
 In the `code` folder, you'll find a number of tasks in html files. Go through each file and follow the instructions. Links to documentation for specific tasks can be found in the comments in the task files.
 
-### Setup repo in Github 
+### Setup repo in Github
 
 1. Create a Github repo.
 2. Upload your files to Github:
@@ -23,7 +23,6 @@ git push -u origin main
 ### How to hand in the assignment
 
 Click the link in canvas and input the link to your repo repo.
-
 
 ### :books: Reading List
 
