@@ -21,7 +21,14 @@
   // Task 2: Use .map() to iterate over the products and return the model from
   // each product. Assign the result to a variable called `models` and use console.log()
   // to print it.
+  const models = products.map((product) => {
+    return {
+      model: product.model,
+    };
+  });
+  console.log(models);
 
+  //___________utan return så kan man skriva såhär:_____________
   products.map((product) => {
     console.log(`Model: ${product.model}`);
   });
